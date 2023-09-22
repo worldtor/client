@@ -1,6 +1,6 @@
 {
   "key": "v2b_datanet",
-  "host_source": "https://link1.datanet.cc/",
+  "host_source": "https://link2.datanet.cc/",
   "target": 1,
   "email": "",
   "tg": "",
@@ -21,6 +21,6 @@
     "Wechat": "1"
   },
   "hosts": [
-    "https://link1.datanet.cc/"
+    "https://link2.datanet.cc/"
   ]
 }
