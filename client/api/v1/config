@@ -21,6 +21,7 @@
     "Wechat": "1"
   },
   "hosts": [
+    "https://u1.datanet.cc/",
     "http://42.51.18.27:2163"
   ]
 }
