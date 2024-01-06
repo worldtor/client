@@ -1,27 +1,29 @@
 {
-  "key": "v2b_datanet",
-  "host_source": "https://notify.hitcloud.lol/",
-  "target": 1,
-  "email": "",
-  "tg": "",
-  "crisp": "91070bf8-bb54-4159-8a1d-0d8b32b1d977",
-  "loginless": 0,
-  "loginless_link": "",
-  "code_login": 0,
-  "code_register": 1,
-  "captcha_login": 1,
-  "captcha_register": 1,
-  "captcha_checkin": 1,
-  "notice": 1,
-  "checkin": 0,
-  "line_flag_regex": "",
-  "line_exclude_loc": 0,
-  "payment_config": {
-    "Alipay": "1",
-    "Wechat": "1"
-  },
-  "hosts": [
-    "https://u1.datanet.cc/",
-    "http://42.51.18.27:2163"
-  ]
+"key": "v2b_datanet",
+"host_source": "https://u1.datanet.cc/",
+"target": 1,
+"email": "",
+"tg": "",
+"crisp": "91070bf8-bb54-4159-8a1d-0d8b32b1d977",
+"loginless": 0,
+"loginless_link": "",
+"code_login": 0,
+"code_register": 1,
+"captcha_login": 1,
+"captcha_register": 1,
+"captcha_checkin": 1,
+"notice": 1,
+"checkin": 0,
+"line_flag_regex": "",
+"line_exclude_loc": 1,
+"payment_config": {
+"Alipay": "1",
+"Wechat": "1"
+},
+"animator": "[{\"t\":2,\"w\":1,\"h\":1,\"x\":\"0\",\"y\":\"0\",\"r\":1,\"ot\":1,\"u\":\"https://lottie-cdn.xpluto.cyou/anim_snow.json\",\"min\":0,\"max\":-1,\"s\":0.8},{\"t\":2,\"w\":120,\"h\":120,\"x\":\"20\",\"y\":\"20\",\"r\":1,\"ot\":0,\"u\":\"https://lottie-cdn.xpluto.cyou/anim_2024.json\",\"min\":0,\"max\":-1,\"s\":0.8}]",
+"hosts": [
+"https://link2.datanet.cc/",
+"https://u1.datanet.cc/",
+"http://42.51.18.27:2163"
+]
 }
